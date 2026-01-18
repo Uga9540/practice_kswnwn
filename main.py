@@ -3,7 +3,7 @@ def main():
     Основная функция программы.
     """
     print("--- Git Practice Project ---")
-    print("Status: practice done")
+    print("Status: practice is done")
 
     user_name = input("Введите ваше имя для приветствия: ")
 
